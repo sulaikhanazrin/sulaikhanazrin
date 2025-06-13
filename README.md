@@ -25,7 +25,18 @@
 
 <p align="left">I'm Sulaikha Nazrin from India<br><br>- 🔭 I’m working as a Data Science Intern, focusing on data analytics and machine learning projects  <br>- 📚 I'm currently learning Advanced SQL using MS SQL Server and Python for Data Science  <br>- ⚡ In my free time, I practice Python coding on LeetCode and create data visualizations using Tableau</p>
 
-###
+- 🌱 I’m currently learning **Advanced SQL and LLM models**
+
+- 👨‍💻 All of my projects are available at [[GitHub Repositories](https://github.com/sulaikhanazrin?tab=repositories)]
+
+- 📫 How to reach me **sulaikhanazrin@gmail.com**
+
+- 📄 Know about my experiences [[View My Resume](https://drive.google.com/file/d/1sR-kMmbkk5x4A4NVrpkNlgT5tjQG5oB8/view?usp=sharing)]
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sulaikha nazrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulaikha nazrin" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 

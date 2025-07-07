@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Sulaikha Nazrin from India<br><br>- 🔭 I’m working as a Data Science Intern, focusing on data analytics and machine learning projects  <br>- 📚 I'm currently learning Advanced SQL using MS SQL Server and Python for Data Science  <br>- ⚡ In my free time, I practice Python coding on LeetCode and create data visualizations using Tableau</p>
+<p align="left">I'm Sulaikha Nazrin from India<br><br>- 🔭 I’m working as a Data Science Intern, focusing on data analytics and machine learning projects  <br>- 📚 I'm currently learning Alteryx for Data Analytics,Excel and SQL.  <br>-</p>
 
 - 🌱 I’m currently learning **Advanced SQL and LLM models**
 

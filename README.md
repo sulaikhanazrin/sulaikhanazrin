@@ -25,7 +25,6 @@
 
 <p align="left">I'm Sulaikha Nazrin from India<br><br>- 🔭 I’m working as a Data Science Intern, focusing on data analytics and machine learning projects  <br>- 📚 I'm currently learning Alteryx for Data Analytics,Excel and SQL.  <br>-</p>
 
-- 🌱 I’m currently learning **Advanced SQL and LLM models**
 
 - 👨‍💻 All of my projects are available at [[GitHub Repositories](https://github.com/sulaikhanazrin?tab=repositories)]
 
